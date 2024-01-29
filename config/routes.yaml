@@ -1,0 +1,10 @@
+controllers:
+    resource:
+        path: ../src/Controller/
+        namespace: App\Controller
+    type: attribute
+one_list:
+    path: /one/list
+    # the controller value has the format 'controller_class::method_name'
+    controller: App\Controller\OneController::list
+    methods: GET
