@@ -4,6 +4,7 @@ Test - Auto évaluation
 Bon je ne l'ai pas fait en 40 minutes. Et je n'ai pas fini la documentation API avec Nelmio.
 
 Beaucoup de choses que j'aurais voulu faire en plus :
+
 => J'aurais aussi voulu utiliser  #[MapRequestPayload], travailler les formats d'entrées dans la documentation d'API
 
 => Contrôle des paramètres de query
